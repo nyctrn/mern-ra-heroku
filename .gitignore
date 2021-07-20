@@ -1,0 +1,6 @@
+mern-retirement-project-heroku/node_modules/
+mern-retirement-project-heroku/client/node_modules/
+mern-retirement-project-heroku/.gitignore
+mern-retirement-project-heroku/config/default.json
+mern-retirement-project-heroku/config/production.json
+mern-retirement-project-heroku/.git/
